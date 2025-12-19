@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Dhruvik Bhagiya Portfolio",
     description: "Production-ready web applications using .NET & React",
-    url: "https://yourdomain.com",
+    url: "https://dhruviksportfolio.vercel.app",
     siteName: "Dhruvik Portfolio",
     locale: "en_IN",
     type: "website",
